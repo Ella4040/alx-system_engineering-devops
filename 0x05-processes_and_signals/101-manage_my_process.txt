@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-#Bash script that creates a subprocess
+#Bash script that manage my process
 . /lib/lsb/init-functions
 
 PIDFILE=/var/run/my_process.pid

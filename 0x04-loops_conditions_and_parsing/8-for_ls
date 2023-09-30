@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-#Creating a script that lists files
+#Bash script that displays
 for i in *
 do
     echo "$i" | cut -f 2- -d '-'

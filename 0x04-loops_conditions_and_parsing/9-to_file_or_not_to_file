@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-#Creating a script that uses nested if statements
+#Bash script that gives you information about the school file
 file="holbertonschool"
 if [ -e $file ]
 then
